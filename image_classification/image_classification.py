@@ -125,7 +125,7 @@ if False:
         plt.imshow(x_train[i + 100], cmap=plt.get_cmap('gray'))
     plt.show()
 
-log_address = 'outputs/image_classification/logs/'
+log_address = '../outputs/image_classification/logs/'
 shutil.rmtree(log_address + 'image/')
 logdir = log_address + "image/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=1)
