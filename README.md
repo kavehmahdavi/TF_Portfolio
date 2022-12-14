@@ -7,4 +7,4 @@ A portfolio of some projects that I have worked on:
 
 ## Links to my projects:
 
-### [Image Classification](https://github.com/kavehmahdavi/TF_Portfolio/image_classification.py)
+### [Image Classification](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/image_classification.py)
