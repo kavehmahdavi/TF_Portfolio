@@ -5,7 +5,7 @@ This uses Keras to:
     Train this neural network.
     Evaluate the accuracy of the model
 
-Author: Kaveh Mahdavi <kavehmahdavi74@gmail.com>
+Author: Kaveh Mahdavi <kavehmahdavi74@yahoo.com>
 License: BSD 3 clause
 last update: 14/12/2022
 """
