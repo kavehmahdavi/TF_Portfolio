@@ -6,6 +6,7 @@ My portfolio of some projects that I have worked on:
 * Deep Neural Network (DNN)
 * Recurrent Neural Network (RNN)
 * Convolutional Neural Network (CNN)
+* Utilities
 
 ## My projects:
 ### Artificial Neural Network (ANN)
@@ -15,4 +16,8 @@ My portfolio of some projects that I have worked on:
 
 
 ### Convolutional Neural Network (CNN)
-* [Object Recognition in Images](https://github.com/kavehmahdavi/TF_Portfolio/tree/main/image_classification)
+* [Object Recognition in Images](https://github.com/kavehmahdavi/TF_Portfolio/tree/main/image_classification/cnn_image_classification.ipynb)
+
+
+### Utilities
+* [Save and Load Models in Json](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/util/model_to_json.ipynb)
