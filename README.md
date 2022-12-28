@@ -1,12 +1,18 @@
 # TensorFlow Portfolio
 
-A portfolio of some projects that I have worked on:
+My portfolio of some projects that I have worked on:
 
 * Artificial Neural Network (ANN)
 * Deep Neural Network (DNN)
 * Recurrent Neural Network (RNN)
 * Convolutional Neural Network (CNN)
 
-## Links to my projects:
+## My projects:
+### Artificial Neural Network (ANN)
+* [Regression Analysis Using Artificial Neural Networks](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/regression/simple_linear_regression.ipynb)
+* [Bank Customer Churn Prediction](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/binary_claccification/binary_classification.ipynby)
+* [Handwritten Digit Recognition](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/image_classification/image_classification.py)
 
-### [Image Classification](https://github.com/kavehmahdavi/TF_Portfolio/tree/main/image_classification)
+
+### Convolutional Neural Network (CNN)
+* [Object Recognition in Images](https://github.com/kavehmahdavi/TF_Portfolio/tree/main/image_classification)
