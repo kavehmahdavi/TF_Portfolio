@@ -26,6 +26,7 @@ My portfolio of some projects that I have worked on:
 ### Natural language processing (NLP)
 
 * [Audio Classification](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/audio_classification/audio_classification.ipynb)
+* [Text Classification](https://github.com/kavehmahdavi/TF_Portfolio/blob/main/natural_language_processing/test_classification.ipynb)
 
 
 ### Customization
